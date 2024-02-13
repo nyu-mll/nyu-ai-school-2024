@@ -1,10 +1,10 @@
-- 
+-
   id: 0
-  name: "Sam"
-  surname: "Bowman"
+  name: "Divyam"
+  surname: "Madaan"
   company: "New York University"
-  thumbnailUrl: bowman.jpg
-  social: {name: "site", link: "http://nyu.edu/projects/bowman"} 
+  thumbnailUrl: divyam.png
+  social: {name: "site", link: "https://dmadaan.com/"}
 - 
   id: 1
   name: "Swapneel"
@@ -14,60 +14,39 @@
   social: {name: "site", link: "https://mehtaver.se/"}
 - 
   id: 2
-  name: "Claudia"
-  surname: "Skok-Gibbs"
+  name: "Will"
+  surname: "Merrill"
   company: "New York University"
-  thumbnailUrl: claudia.png
-  social: {name: "site", link: "https://www.linkedin.com/in/claudia-skok-gibbs-3a8905104/"}
--
+  thumbnailUrl: will.jpg
+  social: {name: "site", link: "https://lambdaviking.com/"}
+- 
   id: 3
-  name: "Lavender"
-  surname: "Jiang"
+  name: "Revant"
+  surname: "Teotia"
   company: "New York University"
-  thumbnailUrl: lavender.jpg
-  social: {name: "site", link: "https://lavenderjiang.github.io/"}
--
+  thumbnailUrl: revant.jpg
+  social: {name: "site", link: "https://revantteotia.github.io/"}
+- 
   id: 4
-  name: "Richard"
-  surname: "Pang"
+  name: "Yucen (Lily)"
+  surname: "Li"
   company: "New York University"
-  thumbnailUrl: richard.jpg
-  social: {name: "site", link: "https://yzpang.github.io/"}
--
-  id: 5
-  name: "Bing"
-  surname: "Yan"
+  thumbnailUrl: lily.jpg
+  social: {name: "site", link: "https://yucenli.com/"}
+- 
+  id: 4
+  name: "Michael"
+  surname: "Hu"
   company: "New York University"
-  thumbnailUrl: bing.png
-  social: {name: "site", link: "https://scholar.google.com/citations?user=337w9-V_WxIC&hl=en"}
--
-  id: 6
-  name: "Tejas"
-  surname: "Mahajan"
-  company: "New York University"
-  thumbnailUrl: tejas.png
-  social: {name: "site", link: "https://tjdevworks.github.io/"}
--
-  id: 7
-  name: "Divyam"
-  surname: "Madaan"
-  company: "New York University"
-  thumbnailUrl: divyam.png
-  social: {name: "site", link: "https://dmadaan.com/"}
--
-  id: 8
-  name: "Abhipsha"
-  surname: "Das"
-  company: "New York University"
-  thumbnailUrl: abhipsha.jpeg
-  social: {name: "site", link: "https://www.linkedin.com/in/abhipsha-das"}
--
+  thumbnailUrl: michael.png
+  social: {name: "site", link: "https://michahu.github.io/"}
+- 
   id: 9
-  name: "Pat"
-  surname: "Feng"
+  name: "Aimee"
+  surname: "Zambrana"
   company: "New York University"
-  thumbnailUrl: pat.jpeg
-  social: {name: "site", link: "https://www.linkedin.com/in/patrick-rei-feng-983837204/"}
+  thumbnailUrl: aimee.jpg
+  social: {name: "site", link: "https://www.linkedin.com/in/chastity-hidalgo-029086136/"}
 -
   id: 10
   name: "Chasity"

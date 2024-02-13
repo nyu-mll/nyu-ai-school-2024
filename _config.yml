@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "NYU AI School"
-email: "nyuaischool@gmail.com"
+email: "nyuaischool@nyu.edu"
 description: "NYU AI School"
-baseurl: "/nyu-ai-school-2023"
+baseurl: "/nyu-ai-school-2024"
 url: "https://nyu-mll.github.io"
 permalink: "/blog/:title"
 
@@ -20,23 +20,23 @@ permalink: "/blog/:title"
 organizerName: "NYU Machine Learning for Language Lab"
 organizerAlternateName: "NYU Machine Learning for Language Lab"
 organizerDescription: ""
-organizerEmail: "nyuaischool@gmail.com"
+organizerEmail: "nyuaischool@nyu.edu"
 organizerLogo: ""
 organizerLink: "http://https://wp.nyu.edu/ml2/"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://bit.ly/nyuaischool23", text: "Apply"}
- - {link: "https://colab.research.google.com/drive/1ePJEuccG-igb3jMk5XxwCr73E0I4yXZ3?usp=sharing", text: "Assignment"}
+ - {link: "https://forms.gle/otw1ZErHpjrfq5T7A", text: "Apply"}
+#  - {link: "https://colab.research.google.com/drive/1ePJEuccG-igb3jMk5XxwCr73E0I4yXZ3?usp=sharing", text: "Assignment"}
 # - {permalink: "/team/", text: "Team"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "NYU AI School"
-eventDate: "May 31 - June 4, 2023"
+eventDate: "June 3 - 7, 2024"
 typeoutTextValues: 'NYU AI School'
 
 # About Block
@@ -57,10 +57,10 @@ aboutBlock:
 # Latest News Block
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 7
-rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "(More speakers: TBD)"
+# rockstarSpeakersImage: "rockstar-speakers.jpg"
+# rockstarSpeakersCount: 7
+# rockstarSpeakersTitle: "Speakers"
+# rockstarSpeakersButtonText: "(More speakers: TBD)"
 
 
 
@@ -81,11 +81,11 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "https://twitter.com/nyuaischool", text: "@nyuaischool"}
-   - {link: "mailto:nyuaischool@gmail.com", text: "nyuaischool@gmail.com"}
+   - {link: "mailto:nyuaischool@nyu.edu", text: "aischool@gmail.com"}
 
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
