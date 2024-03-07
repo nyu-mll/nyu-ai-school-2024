@@ -41,6 +41,18 @@
   thumbnailUrl: michael.png
   social: {name: "site", link: "https://michahu.github.io/"}
 - 
+  id: 5
+  name: "Vivek"
+  surname: "Agarwal"
+  company: "New York University"
+  thumbnailUrl: vivek.jpeg
+- 
+  id: 6
+  name: "Willis"
+  surname: "Ma"
+  company: "New York University"
+  thumbnailUrl: willis.jpg
+- 
   id: 9
   name: "Aimee"
   surname: "Zambrana"
@@ -49,7 +61,7 @@
   social: {name: "site", link: "https://cds.nyu.edu/staff-bios/#aimee"}
 -
   id: 10
-  name: "Chasity"
+  name: "Chastity"
   surname: "Hidalgo"
   company: "New York University"
   thumbnailUrl: chasity.jpeg
