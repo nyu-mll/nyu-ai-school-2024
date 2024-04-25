@@ -53,6 +53,18 @@
   company: "New York University"
   thumbnailUrl: willis.jpg
 - 
+  id: 7
+  name: "Taro"
+  surname: "Makino"
+  company: "New York University"
+  thumbnailUrl: taro.jpeg
+- 
+  id: 8
+  name: "Pat"
+  surname: "Feng"
+  company: "New York University"
+  thumbnailUrl: pat.jpeg
+- 
   id: 9
   name: "Aimee"
   surname: "Zambrana"
