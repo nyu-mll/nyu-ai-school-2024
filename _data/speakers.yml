@@ -1,0 +1,63 @@
+-
+  id: 1
+  name: "Qi"
+  surname: "Lei"
+  company: "New York University"
+  title: "Assistant Professor"
+  bio: "<a href='https://cecilialeiqi.github.io/'>Qi</a> is an assistant professor of Mathematics and Data Science at the Courant Institute of Mathematical Sciences and the Center for Data Science at NYU. She received her Ph.D. from Oden Institute for Computational Engineering & Sciences at UT Austin. Her research aims to develop sample- and computationally efficient machine learning algorithms and bridge the theoretical and empirical gap in machine learning. Qi has received several awards, including the Outstanding Dissertation Award, National Initiative for Modeling and Simulation Graduate Research Fellowship, Computing Innovative Fellowship, and Simons-Berkeley Research Fellowship."
+  thumbnailUrl: lei.jpeg
+  rockstar: true
+- 
+  id: 2
+  name: "Mengye"
+  surname: "Ren"
+  company: "New York University"
+  title: "Assistant Professor"
+  bio: "<a href='https://mengyeren.com/'>Mengye</a> is an assistant professor of computer science and data science at New York University (NYU). Before joining NYU, he was a visiting faculty researcher at Google Brain Toronto working with Prof. Geoffrey Hinton. He received B.A.Sc. in Engineering Science (2015), and M.Sc. (2017) and Ph.D. (2022) in Computer Science from the University of Toronto, advised by Prof. Richard Zemel and Prof. Raquel Urtasun. From 2017 to 2021, he was also a senior research scientist at Uber Advanced Technologies Group (ATG) and Waabi, working on self-driving vehicles. His research focuses on making machine learning more natural and human-like, in order for AIs to continually learn, adapt, and reason in naturalistic environments."
+  thumbnailUrl: mengye.jpeg
+  rockstar: true
+- 
+  id: 3
+  name: "Alexander"
+  surname: "Rush"
+  company: "Cornell, Hugging Face"
+  title: "Associate Professor"
+  bio: "<a href='https://rush-nlp.com/'>Sasha</a> is an associate professor of computer science at Cornell University and a researcher at Hugging Face. His research aims to build and improve generative AI. His group is interested primarily in tasks that involve text generation, translation, summarization."
+  thumbnailUrl: sasha.jpeg
+  rockstar: true
+- 
+  id: 4
+  name: "Grace"
+  surname: "Lindsay"
+  company: "New York University"
+  title: "Assistant Professor"
+  bio: "<a href='https://gracewlindsay.com/'>Grace</a> is an assistant professor of psychology and data science at NYU. She received her PhD at the Center for Theoretical Neuroscience at Columbia University in the lab of Ken Miller. After that, she was a Sainsbury Wellcome Centre/Gatsby Computational Neuroscience Unit Research Fellow at University College London. Her work uses artificial neural networks to understand the brain."
+  thumbnailUrl: grace.jpeg
+  rockstar: true
+-
+  id: 5
+  name: "Utkarsh"
+  surname: "Mall"
+  company: "Columbia University"
+  title: "Postdoctoral Researcher"
+  bio: "Utkarsh is a postdoctoral research scientist at Columbia University, where he is advised by Carl Vondrick. He did his PhD at Cornell University, co-advised by Kavita Bala and Bharath Hariharan. Prior to that, he obtained his bachelor’s degree in Computer Science and Engineering from Indian Institute of Technology Bombay. His research interest lies in computer vision and its application."
+  thumbnailUrl: utkarsh.jpeg
+  rockstar: true
+-
+  id: 6
+  name: "Alan"
+  surname: "Amin"
+  company: "New York University"
+  title: "Faculty Fellow"
+  bio: "Alan is a faculty fellow Courant Institute at NYU, working with the Wilson lab. He completed his PhD in the Harvard Systems Biology program supervised by Debora Marks in 2023. He graduated with a BS in Biochemistry and Mathematics from the University of Toronto in 2019. He works on building statistical tools for learning from biological sequence data–-learning patterns in sets of sequences or learning from experimental data."
+  thumbnailUrl: alan.jpeg
+  rockstar: true
+-
+  id: 7
+  name: "Linda"
+  surname: "Moy"
+  company: "New York University"
+  title: "Professor"
+  bio: "<a href='https://nyulangone.org/doctors/1922064559/linda-moy'>Linda Moy</a> is a Professor in the Department of Radiology at the NYU Grossman School of Medicine. She specializes in breast imaging and use different types of technology, such as mammograms, ultrasounds, and MRI and PET/CT scans. She is currently involved in research on MRI scans of the breast to improve our knowledge of tumor biology."
+  thumbnailUrl: linda.jpeg
+  rockstar: true

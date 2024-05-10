@@ -1,6 +1,6 @@
 - 
-  date: "3022-05-31"
-  dateReadable: "May 31st"
+  date: "3022-06-03"
+  dateReadable: "June 3rd"
   tracks: 
     - {title: "<br>", color: "#90be4e"}
     - {title: "", color: "#03a9f4"}
@@ -13,13 +13,13 @@
     }
     - {
     	startTime: "10:00",
-    	endTime: "11:30",
+    	endTime: "12:00",
     	sessionIds: [001]
     }
     - {
-        startTime: "11:30",
+        startTime: "12:00",
         endTime: "1:00",
-        sessionIds: [402, 406]
+        sessionIds: [402]
     }
     - {
     	startTime: "1:00",
@@ -36,113 +36,6 @@
         endTime: "4:00",
         sessionIds: [100]
     }
-    - {
-        startTime: "4:00",
-        endTime: "5:00",
-        sessionIds: [406]
-    }
-
-- 
-  date: "3021-06-01"
-  dateReadable: "June 1st"
-  tracks: 
-    - {title: "<br>", color: "#90be4e"}
-    - {title: "", color: "#03a9f4"}
-    
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "11:30",
-    	sessionIds: [002]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "1:00",
-        sessionIds: [402, 406]
-    }
-    - {
-    	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [302]
-    }
-    - {
-    	startTime: "3:00",
-    	endTime: "3:15",
-    	sessionIds: [405]
-    }
-    - {
-        startTime: "4:15",
-        endTime: "5:30",
-        sessionIds: [406]
-    }
-
-- 
-  date: "3021-06-02"
-  dateReadable: "June 2nd"
-  tracks: 
-    - {title: "<br>", color: "#90be4e"}
-    - {title: "", color: "#03a9f4"}
-    
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "11:30",
-    	sessionIds: [003]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "1:00",
-        sessionIds: [402, 406]
-    }
-    - {
-    	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [302]
-    }
-    - {
-    	startTime: "3:00",
-    	endTime: "3:15",
-    	sessionIds: [405]
-    }
-    - {
-        startTime: "4:15",
-        endTime: "5:30",
-        sessionIds: [406]
-    }
-
-- 
-  date: "3021-06-03"
-  dateReadable: "June 3rd"
-  tracks: 
-    - {title: "<br>", color: "#90be4e"}
-    - {title: "", color: "#03a9f4"}
-    
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "11:30",
-    	sessionIds: [004]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "1:00",
-        sessionIds: [402, 406]
-    }
-    - {
-    	startTime: "1:00",
-    	endTime: "3:00",
-    	sessionIds: [302]
-    }
-    - {
-    	startTime: "3:00",
-    	endTime: "3:15",
-    	sessionIds: [405]
-    }
-    - {
-        startTime: "4:15",
-        endTime: "5:30",
-        sessionIds: [406]
-    }
 
 - 
   date: "3021-06-04"
@@ -154,27 +47,119 @@
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "11:30",
-    	sessionIds: [005]
+    	endTime: "12:00",
+    	sessionIds: [002]
     }
     - {
-        startTime: "11:30",
+        startTime: "12:00",
         endTime: "1:00",
-        sessionIds: [402, 406]
+        sessionIds: [402]
     }
     - {
     	startTime: "1:00",
     	endTime: "3:00",
-    	sessionIds: [006]
+    	sessionIds: [302]
     }
     - {
-    	startTime: "3:00",
+    	startTime: "3:15",
     	endTime: "4:00",
     	sessionIds: [405]
     }
     - {
-        startTime: "4:00",
-        endTime: "5:30",
-        sessionIds: [406]
+        startTime: "3:15",
+        endTime: "4:00",
+        sessionIds: [403]
+    }
+
+- 
+  date: "3021-06-05"
+  dateReadable: "June 5th"
+  tracks: 
+    - {title: "<br>", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
+    
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "12:00",
+    	sessionIds: [003]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "1:00",
+        sessionIds: [402]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "3:00",
+    	sessionIds: [302]
+    }
+    - {
+        startTime: "3:15",
+        endTime: "4:00",
+        sessionIds: [405]
+    }
+    - {
+        startTime: "3:15",
+        endTime: "4:00",
+        sessionIds: [403]
+    }
+
+- 
+  date: "3021-06-06"
+  dateReadable: "June 6th"
+  tracks: 
+    - {title: "<br>", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
+    
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [004]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [005]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "1:00",
+    	sessionIds: [402]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "3:00",
+    	sessionIds: [302]
+    }
+
+- 
+  date: "3021-06-07"
+  dateReadable: "June 7th"
+  tracks: 
+    - {title: "<br>", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
+    
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [006]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [007]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "1:00",
+    	sessionIds: [402]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "3:00",
+    	sessionIds: [302]
     }
 

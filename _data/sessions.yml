@@ -1,62 +1,67 @@
 -
   id: 001
-  title: "<a href=''>Introduction to Machine Learning</a>"
+  title: "<a href=''>Fundamentals of Machine Learning</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [5]
+  speakers: [1]
 -
   id: 002
-  title: "<a href=''>Fundamental Concepts for AI</a>"
-  description: "Lecture"
-  subtype: presentation
-  speakers: [3]
--
-  id: 100
-  title: "<a href=''>Panel: Pathways to ML research</a>"
-  description: "Fireside Chat"
-  subtype: panel
-  speakers: [8,9,10,11]
--
-  id: 003
-  title: "<a href=''>Deep Learning I: Computer Vision</a>"
-  description: "Lecture"
-  subtype: presentation
-  speakers: [7]
--
-  id: 004
-  title: "<a href=''>Deep Learning II: Natural Language Processing</a>"
+  title: "<a href=''>Computer Vision</a>"
   description: "Lecture"
   subtype: presentation
   speakers: [2]
 -
-  id: 101
-  title: "<a href=''>Panel: Pathways in ML research Research</a>"
-  description: "Fireside Chat"
+  id: 100
+  title: "<a href=''>Panel</a>"
+  # description: "Fireside Chat"
   subtype: panel
-  speakers: [8]
+  # speakers: [8,9,10,11]
 -
-  id: 102
-  title: "AMA/Fireside chat with Grad Students"
-  description: ""
+  id: 003
+  title: "<a href=''>Natural Language Processing</a>"
+  description: "Lecture"
+  subtype: presentation
+  speakers: [3]
+-
+  id: 004
+  title: "<a href=''>Applied Machine Learning I</a>"
+  description: "Lecture"
+  subtype: presentation
+  speakers: [5]
+-
+  id: 101
+  title: "<a href=''>Panel</a>"
+  # description: "Fireside Chat"
   subtype: panel
-  speakers:
+  # speakers: [8]
 -
   id: 005
-  title: "<a href=''>An introduction to Algorithmic Fairness and Responsible AI</a>"
+  title: "<a href=''>Applied Machine Learning II</a>"
   subtype: presentation
   description: "Lecture"
   speakers: [4]
 -
   id: 006
-  title: "<a href=''>Applied AI Lightning Talks</a>"
+  title: "<a href=''>AI and Biology</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [1,6,12]
+  speakers: [6]
+-
+  id: 007
+  title: "<a href=''>AI and Healthcare</a>"
+  subtype: presentation
+  description: "Lecture"
+  speakers: [7]
 -
   id: 402
   title: "Lunch"
   place: ""
   service: true
+-
+  id: 403
+  title: "Demo: LLMs in Industry"
+  subtype: presentation
+  description: "Lecture"
 -
   id: 404
   title: "Closing remarks"

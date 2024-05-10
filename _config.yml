@@ -27,8 +27,8 @@ organizerLink: "http://https://wp.nyu.edu/ml2/"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/schedule/", text: "Schedule"}
-#  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
 #  - {link: "https://forms.gle/otw1ZErHpjrfq5T7A", text: "Apply"}
 #  - {link: "https://colab.research.google.com/drive/1ePJEuccG-igb3jMk5XxwCr73E0I4yXZ3?usp=sharing", text: "Assignment"}
 # - {permalink: "/team/", text: "Team"}
