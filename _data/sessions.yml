@@ -27,7 +27,7 @@
   title: "<a href=''>Applied Machine Learning I</a>"
   description: "Lecture"
   subtype: presentation
-  speakers: [5]
+  speakers: [4]
 -
   id: 101
   title: "<a href=''>Panel</a>"
@@ -39,7 +39,7 @@
   title: "<a href=''>Applied Machine Learning II</a>"
   subtype: presentation
   description: "Lecture"
-  speakers: [4]
+  speakers: [5]
 -
   id: 006
   title: "<a href=''>AI and Biology</a>"
