@@ -59,9 +59,10 @@
   service: true
 -
   id: 403
-  title: "Demo: LLMs in Industry"
+  title: "Demo: LLMs Applications"
   subtype: presentation
   description: "Lecture"
+  speakers: [8]
 -
   id: 404
   title: "Closing remarks"

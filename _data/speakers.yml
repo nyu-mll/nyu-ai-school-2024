@@ -61,3 +61,12 @@
   bio: "<a href='https://nyulangone.org/doctors/1922064559/linda-moy'>Linda Moy</a> is a Professor in the Department of Radiology at the NYU Grossman School of Medicine. She specializes in breast imaging and use different types of technology, such as mammograms, ultrasounds, and MRI and PET/CT scans. She is currently involved in research on MRI scans of the breast to improve our knowledge of tumor biology."
   thumbnailUrl: linda.jpeg
   rockstar: true
+-
+  id: 8
+  name: "Dan"
+  surname: "Pechi"
+  company: "NYU / JetBlue"
+  title: "AI/ML Engineer"
+  bio: "Dan is an AI/ML engineer at JetBlue focused on LLM applications. He also conducts NLP research at NYU."
+  thumbnailUrl: dan.jpg
+  rockstar: true
