@@ -11,12 +11,6 @@
   subtype: presentation
   speakers: [2]
 -
-  id: 100
-  title: "<a href=''>Panel</a>"
-  # description: "Fireside Chat"
-  subtype: panel
-  # speakers: [8,9,10,11]
--
   id: 003
   title: "<a href=''>Natural Language Processing</a>"
   description: "Lecture"
@@ -31,9 +25,13 @@
 -
   id: 101
   title: "<a href=''>Panel</a>"
-  # description: "Fireside Chat"
+  description: "Careers in AI"
   subtype: panel
-  # speakers: [8]
+-
+  id: 102
+  title: "<a href=''>Panel</a>"
+  description: "Firsts in AI"
+  subtype: panel
 -
   id: 005
   title: "<a href=''>Applied Machine Learning II</a>"

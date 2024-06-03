@@ -27,14 +27,9 @@
     	sessionIds: [302]
     }
     - {
-    	startTime: "3:00",
-    	endTime: "3:15",
-    	sessionIds: [405]
-    }
-    - {
         startTime: "3:15",
         endTime: "4:00",
-        sessionIds: [100]
+        sessionIds: [101]
     }
 
 - 
@@ -60,16 +55,7 @@
     	endTime: "3:00",
     	sessionIds: [302]
     }
-    - {
-    	startTime: "3:15",
-    	endTime: "4:00",
-    	sessionIds: [405]
-    }
-    - {
-        startTime: "3:15",
-        endTime: "4:00",
-        sessionIds: [403]
-    }
+
 
 - 
   date: "3021-06-05"
@@ -97,7 +83,7 @@
     - {
         startTime: "3:15",
         endTime: "4:00",
-        sessionIds: [405]
+        sessionIds: [102]
     }
     
 - 
@@ -128,6 +114,11 @@
     	endTime: "3:00",
     	sessionIds: [302]
     }
+    - {
+        startTime: "3:15",
+        endTime: "4:00",
+        sessionIds: [403]
+    }
 
 - 
   date: "3021-06-07"
@@ -156,11 +147,6 @@
     	startTime: "1:00",
     	endTime: "3:00",
     	sessionIds: [302]
-    }
-    - {
-        startTime: "3:15",
-        endTime: "4:00",
-        sessionIds: [403]
     }
 
 
